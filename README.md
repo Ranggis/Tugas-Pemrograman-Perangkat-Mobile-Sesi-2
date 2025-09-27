@@ -57,18 +57,17 @@ Tampilan hasil project (Home Screen):
 ```
 AwesomeProject/
 │
-├── assets/
-│   ├── images/
-│   │   └── Mountain.png
-│   └── fonts/
-│       ├── PlusJakartaSans-Regular.ttf
-│       └── PlusJakartaSans-Bold.ttf
-│
 ├── src/
 │   ├── screens/
 │   │   └── HomeScreen.tsx
 │   └── styles/
 │       └── homeStyles.js
+├   └── assets/
+│       └──images/
+│           └── Mountain.png
+│       └── fonts/
+│           ├── PlusJakartaSans-Regular.ttf
+│           └── PlusJakartaSans-Bold.ttf
 │
 ├── App.tsx
 └── react-native.config.js
