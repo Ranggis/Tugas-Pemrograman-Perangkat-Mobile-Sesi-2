@@ -9,8 +9,7 @@ Tampilan dibuat semirip mungkin dengan desain, lengkap dengan background image, 
 
 Tampilan hasil project (Home Screen):
 
-![Preview](./assets/images/preview.png)
-*(ganti dengan screenshot asli dari aplikasi kamu)*
+![Preview](https://github.com/Ranggis/Tugas-Pemrograman-Perangkat-Mobile-Sesi-2/blob/main/Tugas%20Pemrograman%20Perangkat%20Mobile%20Sesi%202/Hasil%20Implementasi/Hasil%20Implementasi.jpg)
 
 ---
 
